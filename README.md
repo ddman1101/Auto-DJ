@@ -25,7 +25,7 @@ You can also run
 
 ## Running the application
 
-To run the application, run the `main.py` script in the `auto-dj/Application` directory:
+To run the application, run the `main.py` script in the `AIDJ-python3/Application` directory:
 
 `python main.py`
 
