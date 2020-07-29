@@ -20,8 +20,9 @@ The automatic DJ application has been developed for python 3.7.7 and tested on U
 
 These packages can be installed using e.g. the `pip` package manager or using `apt-get` on Ubuntu. Installation instructions for the Essentia library can be found on [http://essentia.upf.edu/documentation/installing.html](http://essentia.upf.edu/documentation/installing.html).
 
-You can also run
+You can also run 
 `pip install -r requirements.txt`
+to make the part of installing dependencies.
 
 ## Running the application
 
