@@ -5,7 +5,7 @@ The system is described in more detail in the paper _Vande Veire, Len, and De Bi
 
 ## Problem
 
-In the following some packages, it only works on the ubuntu system. So in this branch I will focus on fix these problems (on-going)
+In the following some packages, it only works on buntu system. So in this branch I will focus on fix these problems (on-going)
 
 ## Installing dependencies
 
