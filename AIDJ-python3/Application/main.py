@@ -9,7 +9,7 @@ import essentia
 import os
 
 import logging
-#~ LOG_LEVEL = logging.INFO
+LOG_LEVEL = logging.INFO
 LOG_LEVEL = logging.DEBUG
 LOGFORMAT = "%(log_color)s%(message)s%(reset)s"
 from colorlog import ColoredFormatter
