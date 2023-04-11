@@ -3,6 +3,10 @@ This repository contains the source code of the automatic DJ system developed by
 
 The system is described in more detail in the paper _Vande Veire, Len, and De Bie, Tijl, "From raw audio to a seamless mix: an artificial intelligence approach to creating an automated DJ system." 2018 (submitted)_.
 
+## Problem
+
+In some dependencies, it only works on the ubuntu. So in this branch I will fix the problem and it is still in the progress.
+
 ## Installing dependencies
 
 The automatic DJ application has been developed for python 3.7.7 and tested on Ubuntu 18.04 LTS. It depends on the following python packages:
