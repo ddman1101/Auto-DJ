@@ -45,7 +45,7 @@ The application is controlled using commands. The following commands are availab
 To exit the application, use the `Ctrl+C` key combination.
 
 ## Some problem in the auto-dj
-Sometimes the key of music may not in the list, then it couldn't play.
+Sometimes the key of music may not in the list, then it couldn't play. (Issue)
 
 ## Copyright information
 Copyright 2017 Len Vande Veire, IDLab, Department of Electronics and Information Systems, Ghent University.
